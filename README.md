@@ -4,7 +4,7 @@ This is the start of my journey into understanding Computer Systems, this is a r
 ### Assignment One ###
 Desktop PC hardware
 
-*Description*
+*Description:*
 For this exercise, you need to demonstrate a basic understanding of  the key functional elements of a desktop computer. 
 For each of the elements listed below, you must provide a relevant graphic and a brief explanation of the function of that element. If you have pictures taken during the PC hardware practical exercise, you may use these. Otherwise you will source pictures from the internet.
 The elements to be covered are:
@@ -19,7 +19,7 @@ The elements to be covered are:
 ### Assignment Two ###
 Computer System Architecture
 
-*Description*
+*Description:*
 For this exercise, you will create a presentation using PowerPoint (or equivalent) to explain how key computing functions are implemented in the hardware of two different devices:
  - Desktop Computer
  - Smartphone
@@ -36,7 +36,7 @@ The presentation should contain no more than 10 slides (excluding a title screen
 ### Assignment Three ###
 Data Representation
 
-*Description*
+*Description:*
 For this exercise, you will create a handout (no more than 2 sides of A4) aimed at students starting a course at college to explain about data management. 
 In particular, you need to explain how storage at college with the H: drive differs from the computer that the student may have at home.
 The areas to be covered are:
@@ -53,7 +53,7 @@ You may find it useful to include images /diagrams in your handout.
 ### Assignment Four ###
 Specify a computer to meet a requirement
 
-*Description*
+*Description:*
 For a Pass grade on this exercise, you will select a currently available computer system and demonstrate its suitability for running Battlefield 1.
 It is important that you clearly identify the minimum hardware and software requirements for the game. You should also identify if there are higher recommended specifications.
 You must then provide evidence that your chosen computer system meets or exceeds each of the minimum requirements. If there are higher recommended specifications, you should also comment on the extent to which the system meets these.
@@ -62,7 +62,7 @@ For higher grades, select two computer systems; one lower cost / lower specifica
 ### Assignment Five ###
 Operating System Generic Functionality
 
-*Description*
+*Description:*
 In an earlier exercise, you explained various hardware aspects of a computer system, namely:
  - Input / Output
  - Memory
@@ -79,7 +79,7 @@ Also explain the difference between the following software types:
 ### Assignment Six ###
 Operating System Comparison
 
-*Description*
+*Description:*
 In Exercise 5 you identified the specific parts of an operating system that control aspects of computer hardware.
 For this exercise, you will look in more detail at how these have been implemented in two specific operating systems. Choose ONE column from this table and compare those two systems:
 | A      | B      | C      | D       | E      |
@@ -90,3 +90,20 @@ For this exercise, you will look in more detail at how these have been implement
 *The assignment where weighted at 20% each of the complete module.*
 
 **Associated Files**
+[ICL1302 - Assignment Brief](https://github.com/tobybeevers/ICL-1302-Computer-Systems/blob/main/ICL-1302%20Computer%20Systems%20-%20Assignment%20Brief.pdf)
+
+[ICL1302 - Part One](https://github.com/tobybeevers/ICL-1302-Computer-Systems/blob/main/ICL-1302%20Computer%20Systems%20-%20Assignment%201.docx)
+
+[ICL1302 - Part Two](https://github.com/tobybeevers/ICL-1302-Computer-Systems/blob/main/ICL-1302%20Computer%20Systems%20-%20Assignment%202.pptx)
+
+[ICL1302 - Part Two Ref List](https://github.com/tobybeevers/ICL-1302-Computer-Systems/blob/main/ICL-1302%20Computer%20Systems%20-%20Assignment%202%20Reference%20List.docx)
+
+[ICL1302 - Part Three](https://github.com/tobybeevers/ICL-1302-Computer-Systems/blob/main/ICL-1302%20Computer%20Systems%20-%20Assignment%203.docx)
+
+[ICL1302 - Part Four](https://github.com/tobybeevers/ICL-1302-Computer-Systems/blob/main/ICL-1302%20Computer%20Systems%20-%20Assignment%204%20V2.docx)
+
+[ICL1302 - Part Five](https://github.com/tobybeevers/ICL-1302-Computer-Systems/blob/main/ICL-1302%20Computer%20Systems%20-%20Assignment%205.docx)
+
+[ICL1302 - Part Six](https://github.com/tobybeevers/ICL-1302-Computer-Systems/blob/main/ICL-1302%20Computer%20Systems%20-%20Assignment%205.docx)
+
+
